@@ -10,6 +10,7 @@ Atividade - Sistemas Distribuidos - Comunicação em grupo
 # Descrição
 
 Atividade implementada em Java para a matéria de Sistemas distribuidos utilizando um socket para conexão e a comunicação em um grupo multicast em uma rede.
+O projeto consiste em duas aplicações, uma do servidor, que realiza eleições e se comunica no grupo multicast e outra cliente que pode se conectar ao lider do grupo e enviar uma mensagem.
 
 ------------------------------------------------------------------------
 # Descrição da Atividade
